@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: brown;
+}
+
+main{
+    background-color: rgba(235, 235, 235, 0.959);
+    width: 80%;
+    margin: 50px auto;
+    max-width: 960px;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+img{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+header{
+    font-size: 40px;
+    color: rgb(240, 6, 6);
+    font-weight: bold;
+}
+
+
+
+p{
+    text-align: justify;
+}
+
+h2{
+    font-size: 15px;
+}
