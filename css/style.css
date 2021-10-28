@@ -20,7 +20,7 @@ img{
 }
 
 header{
-    font-size: 40px;
+    font-size: 44px;
     color: rgb(240, 6, 6);
     font-weight: bold;
 }
@@ -34,3 +34,7 @@ p{
 h2{
     font-size: 15px;
 }
+
+footer{
+    text-align: center;
+}    
